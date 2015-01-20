@@ -14,11 +14,15 @@ Contents type: `html`, `slide`, `book`, `article`, `video`, `pdf`
 * [20140920 tokyo r43](http://www.slideshare.net/kashitan/20140920-tokyo-r43) `slide`
 * [外れ値](http://www.slideshare.net/sfchaos/ss-16709258) `slide`
 * Hadley Wickham 2014. [Tidy Data](http://www.jstatsoft.org/v59/i10) Journal of Statistical Software `article`
+* [「ネ申 Excel」問題 - 奥村研究室 - 三重大学](http://oku.edu.mie-u.ac.jp/~okumura/SSS2013slide.pdf) `slide(pdf)`
+* [「ネ申 Excel」問題 - 奥村研究室 - 三重大学](http://oku.edu.mie-u.ac.jp/~okumura/SSS2013.pdf) `pdf`
 
 ## 環境整備
 
 * [Using Projects – RStudio Support](https://support.rstudio.com/hc/en-us/articles/200526207-Using-Projects) `html`
 * [モダンな現場にするために実践したこと // Speaker Deck](https://speakerdeck.com/kensuketanaka/modannaxian-chang-nisurutamenishi-jian-sitakoto) `slide`
+* [前処理のための前処理（Tokyo.R#45）](http://www.slideshare.net/uribo/data-pretreatment) `slide`
+
 
 ## プログラミング・コーディング
 

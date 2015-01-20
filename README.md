@@ -8,10 +8,17 @@
 
 分野に問わず生じる**データ処理に関する問題をまとめて、その対策などを書く**ことで、困った問題を成仏させてやろうというもの。
 
+## Tsurami Category
+
+* [`データ自身、構造`](data_structure.md)
+* [`excel`](excel.md)
+* [`モデリング`](modeling.md)
+
 ## Tsurami
 
 現在確認されている`#Tsurami`
 
+* プラットフォーム環境の違い
 * 日付・時間
 * フォルダ、ファイル名
 
@@ -24,4 +31,4 @@
 * 指数関数時間
 * 次元の呪い
 
-tsuramiをお持ちの方は[issuesトラック](http://github.com/uribo/data_treatment/issues)にtsuramiを書き込んでください。
+tsuramiをお持ちの方は[issuesトラック](http://github.com/uribo/data_treatment/issues)にtsuramiを書き込むか、プルリクエストをお送りください（歓迎）。
